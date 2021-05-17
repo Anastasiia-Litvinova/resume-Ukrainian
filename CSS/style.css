@@ -231,3 +231,21 @@ body {
 .education-info {
   margin-top: 55px;
 }
+
+.languages-info {
+  margin-top: 60px;
+}
+
+.lang-list-item {
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.lang-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.items-wrapper {
+  margin: 10px;
+}
